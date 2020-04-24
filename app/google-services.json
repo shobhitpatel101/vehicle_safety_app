@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "720384779216",
+    "firebase_url": "https://eyewarning-fd8d1.firebaseio.com",
+    "project_id": "eyewarning-fd8d1",
+    "storage_bucket": "eyewarning-fd8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720384779216:android:693c00b96c712e8c",
+        "android_client_info": {
+          "package_name": "com.example.window2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720384779216-oncfm9259f0ln27rei8kusq1sjtidd85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_hEksy4Sd-PyXs4_r4Ty28wvyat773vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
